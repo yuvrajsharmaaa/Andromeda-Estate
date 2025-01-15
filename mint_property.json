@@ -1,0 +1,33 @@
+{
+  "mint": [
+    {
+      "extension": {
+        "publisher": "Real Estate NFT Team"
+      },
+      "token_id": "PROP-001",
+      "token_uri": "https://pink-blank-peacock-507.mypinata.cloud/ipfs/bafkreiehkzj5osqk7lrblox3pbr4o7bep6snukbzgj4ohj6smbz4vksh5m"
+    },
+    {
+      "extension": {
+        "publisher": "Real Estate NFT Team"
+      },
+      "token_id": "PROP-002",
+      "token_uri": "https://pink-blank-peacock-507.mypinata.cloud/ipfs/bafkreifpp6r343vgc4676asb4mmanufyp4dyifp2qahgnxdyjysf2w6wxa"
+    },
+    {
+      "extension": {
+        "publisher": "Real Estate NFT Team"
+      },
+      "token_id": "PROP-003",
+      "token_uri": "https://pink-blank-peacock-507.mypinata.cloud/ipfs/bafkreifg4z52kcqngkdwqhshhjalln44cxuw5azq4qd7aqh3tubeyvm6sy"
+    }
+  ],
+  "$type": "mint",
+  "$version": "0.2.1",
+  "$class": "modifier",
+  "$classifier": "real-estate",
+  "$enabled": true,
+  "$removable": false,
+  "$required": true,
+  "$pos": { "x": 0, "y": 0 }
+}
